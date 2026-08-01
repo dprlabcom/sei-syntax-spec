@@ -1,0 +1,58 @@
+DPRLAB Sovereign Academic & Non-Commercial License (SANCL)
+
+Version 1.0
+Copyright (c) 2026 DPRLAB. All rights reserved.
+
+Preamble
+
+The Synthetic Environment Infrastructure (SEI) and its underlying methodologies—including "Blueprint as Code," "Pixel as Code," and specific spatial coordinate matrices—represent proprietary, deterministic execution frameworks.
+
+DPRLAB recognizes the necessity of independent, rigorous academic validation to advance the fields of spatial computation and localized AI orchestration. Therefore, this license is granted exclusively to foster institutional research, while strictly reserving all commercial, execution, and physical deployment rights for DPRLAB and its sovereign partners.
+
+1. Definitions
+
+"Licensed Material" refers to the software, documentation, abstract schemas, coordinate syntaxes, and logic models contained in this public repository (sei-syntax-spec).
+
+"Academic/Research Use" means utilizing the Licensed Material solely for the purposes of education, peer-reviewed academic research, non-profit institutional study, and theoretical validation.
+
+"Commercial Use" means any use of the Licensed Material intended for or directed toward commercial advantage, monetary compensation, physical asset deployment, billable-hour consulting, or integration into proprietary software products and pipelines.
+
+2. Grant of License
+
+Subject to the terms and conditions of this License, DPRLAB hereby grants you a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+Download, read, and analyze the Licensed Material.
+
+Modify and execute the Licensed Material within localized, non-commercial research environments to validate mathematical and spatial logic.
+
+Publish academic papers, thesis documents, or non-profit research that references, critiques, or validates the Licensed Material, provided strict attribution is given.
+
+3. Strict Restrictions and Embargoes
+
+The following actions are strictly prohibited and constitute a material breach of this license:
+
+Commercial Execution: You may not use the Licensed Material, in whole or in part, to design, engineer, validate, or deploy physical structures, real estate assets, or infrastructure for commercial gain.
+
+Software Integration: You may not integrate, compile, or embed the Licensed Material into proprietary commercial software, SaaS platforms, cloud-based AEC toolchains (e.g., Autodesk, Bentley Systems), or commercial generative AI pipelines.
+
+Consulting and Billable Work: You may not use the Licensed Material to optimize workflows or generate deliverables for which you or your organization receive financial compensation.
+
+Redistribution for Profit: You may not sub-license, sell, rent, or distribute the Licensed Material or any derivative works for a fee.
+
+4. Attribution
+
+Any public research, academic publication, or public display of the Licensed Material (or works derived from it for academic purposes) must include the following attribution prominently:
+
+"This research incorporates the Synthetic Environment Infrastructure (SEI) framework, developed by DPRLAB. Commercial execution and deployment of SEI logic remain the exclusive proprietary domain of DPRLAB."
+
+5. Reservation of Rights
+
+DPRLAB retains all right, title, and interest in and to the Licensed Material. No rights are granted by implication, estoppel, or otherwise, other than those expressly granted herein. If you or your organization require commercial execution capabilities, you must negotiate a separate, proprietary Sovereign Execution Agreement with DPRLAB.
+
+6. Disclaimer of Warranty and Limitation of Liability
+
+THE LICENSED MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL DPRLAB BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE LICENSED MATERIAL OR THE USE OR OTHER DEALINGS IN THE LICENSED MATERIAL.
+
+7. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of the State of Nevada, United States of America, without regard to its conflict of law provisions.
