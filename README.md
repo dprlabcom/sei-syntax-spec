@@ -50,4 +50,4 @@ Current Specification: v1.0.0 (Abstract Schema)
 
 Validation Status: Under ongoing institutional review.
 
-Contact for Academic Partnerships: validation-inquiries@dprlab.com
+Contact for Academic Partnerships: team@dprlab.com
