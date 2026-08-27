@@ -8,7 +8,7 @@ This repository serves as the definitive source for the abstract schema, structu
 
 LICENSE NOTICE: All material within this repository is provided strictly for academic, non-commercial, and institutional validation purposes under the DPRLAB Sovereign Academic & Non-Commercial License (SANCL).
 
-PROPRIETARY EMBARGO: The core execution engine (sei-core), proprietary Gemini-integrated orchestration scripts, and all physical project coordinate matrices (e.g., Domus Mare, Elevare, Villa Binnis) are private, proprietary, and air-gapped under the Black Book Protocol. Commercial execution and physical asset deployment of SEI logic remain the exclusive proprietary domain of DPRLAB.
+PROPRIETARY EMBARGO: The core execution engine (sei-core), proprietary LLM-integrated orchestration scripts, and all physical project coordinate matrices (e.g., SEI Container System, Domus Mare, Elevare Residence, Villa Binnis, The Poconos, Think Furniture, Think Chair, Think Loveseat, Think Bar) are private, proprietary, and air-gapped under the Black Book Protocol. Commercial execution and physical asset deployment of SEI logic remain the exclusive proprietary domain of DPRLAB.
 
 2. CORE SYNTAX ARCHITECTURE & RESEARCH PRIMITIVES
 
