@@ -1,6 +1,11 @@
-SEI Syntax Specification (sei-syntax-spec)
+# SEI Syntax Specification (sei-syntax-spec)
 
 Abstract Schema and Syntax Logic for the Synthetic Environment Infrastructure (SEI)
+
+[![Wellfound](https://img.shields.io/badge/Wellfound-DPRLAB-000000?style=flat-square&logo=wellfound&logoColor=white)](https://wellfound.com/company/dprlabcom)
+[![Website](https://img.shields.io/badge/Website-dprlab.com-000000?style=flat-square)](https://dprlab.com)
+
+---
 
 1. EXECUTIVE SUMMARY & ACCESS RESTRICTION
 
