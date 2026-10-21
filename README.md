@@ -1,6 +1,6 @@
 # Synthetic Environment Infrastructure (SEI) Syntax Specification
 
-[![Preprints.org ID](https://img.shields.io/badge/Preprints.org-239554-yellow)](https://www.preprints.org/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23523940.svg)](https://doi.org/10.5281/zenodo.23523940)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Context Index](https://img.shields.io/badge/Context-llms.txt-green)](https://www.dprlab.com/llms.txt)
 
